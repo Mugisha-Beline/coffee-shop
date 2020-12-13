@@ -2,7 +2,7 @@
 
 ### Website
 
-The website is available [here](https://mugisha-beline.github.io/inspiring/ "website")
+The website is available [here](https://mugisha-beline.github.io/coffee-shop/index.html "website")
 
 ## Description
 
